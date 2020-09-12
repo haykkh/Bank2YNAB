@@ -24,6 +24,11 @@ cd Bank2YNAB
 ## 🚀 Usage
 
 ```sh
+python IDBank2YNAB.py input.xlsx output.csv
+
+python IDram2YNAB.py input.xls output.csv
+
+python Ineco2YNAB.py input.csv output.csv
 ```
 
 ## 📝 Contributing
