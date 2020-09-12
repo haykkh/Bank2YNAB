@@ -19,7 +19,7 @@ cd Bank2YNAB
 
 ### ⬇️ Direct download
 
-[IDBank2YNAB-master.zip](https://github.com/haykkh/Bank2YNAB/archive/master.zip)
+[Bank2YNAB-master.zip](https://github.com/haykkh/Bank2YNAB/archive/master.zip)
 
 ## 🚀 Usage
 
