@@ -143,6 +143,15 @@ cython_debug/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+.vscode
 
 # Local History for Visual Studio Code
 .history/
+
+# excels and csvs
+*.xls
+*.xlsx
+*.csv
+
+# notebooks
+*.ipynb
