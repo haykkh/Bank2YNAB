@@ -5,7 +5,7 @@
 
     Script to convert IDBank statements to YNAB format
 
-    Assumes to have read this 🙃
+    Assumes you've read this 🙃
 
     Usage:
         $ python IDBank2YNAB.py input.xlsx output.csv

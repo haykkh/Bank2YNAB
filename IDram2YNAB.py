@@ -5,7 +5,7 @@
 
     Script to convert (old) IDram wallet statements to YNAB format
 
-    Assumes to have read this 🙃
+    Assumes you've read this 🙃
 
     You will need to convert the cells in the *.xls from functions to values
 

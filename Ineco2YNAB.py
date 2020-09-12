@@ -5,7 +5,7 @@
 
     Script to convert InecoBank statements to YNAB format
 
-    Assumes to have read this 🙃
+    Assumes you've read this 🙃
 
     Usage:
         $ python Ineco2YNAB.py input.csv output.csv
