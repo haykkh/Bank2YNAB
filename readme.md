@@ -1,23 +1,25 @@
 
-# IDBank2YNAB
+# Bank2YNAB
 
-> Converts IDBank statements to YNAB csv
+> Converts some Armenian bank statements to YNAB csv
 
 ![language](https://img.shields.io/badge/python-blue.svg?style=flat-square)
+
+_It's ugly but it works_ ⚡
 
 ## 📦 Installation
 
 ### 📋 Clone repo
 
 ```sh
-git clone https://github.com/haykkh/IDBank2YNAB.git
+git clone https://github.com/haykkh/Bank2YNAB.git
 
-cd IDBank2YNAB
+cd Bank2YNAB
 ```
 
 ### ⬇️ Direct download
 
-[IDBank2YNAB-master.zip](https://github.com/haykkh/IDBank2YNAB/archive/master.zip)
+[IDBank2YNAB-master.zip](https://github.com/haykkh/Bank2YNAB/archive/master.zip)
 
 ## 🚀 Usage
 
@@ -26,7 +28,7 @@ cd IDBank2YNAB
 
 ## 📝 Contributing
 
-1. Fork it (<https://github.com/haykkh/IDBank2YNAB/fork>)
+1. Fork it (<https://github.com/haykkh/Bank2YNAB/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
